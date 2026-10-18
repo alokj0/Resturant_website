@@ -1,0 +1,7 @@
+<footer>
+<div class="wrap">
+<b class="logo">🔥 Angeethi</b>
+<p>12 Garden Road, Main Market · 98765 43210 · Open daily, 12 pm to 11 pm</p>
+<p><a href="admin/login.php">Staff login</a></p>
+</div></footer>
+</body></html>
